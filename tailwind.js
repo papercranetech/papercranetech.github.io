@@ -18,6 +18,10 @@ module.exports = {
       black: '#000',
       white: '#fff',
 
+      pri: '#00A6A2', // paper crane primary
+      sec: '#F99E00',
+      ter: '#FF006B',
+
       grey: {
         100: '#f7fafc',
         200: '#edf2f7',
