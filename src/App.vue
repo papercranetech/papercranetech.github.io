@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <Test msg="Welcome to Your Vue.js App"/>
+
+    <!-- <div class="border border-gray-500 rounded w-1/2">Hello</div> -->
+    <coming-soon text="This is component something"/>
+
   </div>
 </template>
 
 <script>
-import Test from './components/Test.vue'
+import ComingSoon from './components/ComingSoon.vue'
 
 export default {
   name: 'app',
   components: {
-    Test
+    ComingSoon
   }
 }
 </script>
