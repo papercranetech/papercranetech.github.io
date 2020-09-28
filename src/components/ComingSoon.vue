@@ -10,6 +10,7 @@
           <p class="text-2xl font-mono text-gray-60">coming soon...</p>
           <div class="mt-12">
             <p class="text-lg text-gray-400">📮 hello@papercranetech.co</p>
+            <p class="text-sm text-gray-400">沪ICP备2020029815号</p>
           </div>
         </div>
       </div>
